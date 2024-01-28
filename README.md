@@ -94,7 +94,6 @@ Sistema pos, laravel 10, mysql.
 1. **Gráfico de configuración**
 
     Abrir documento `./config/cart.php`. Puede establecer un impuesto, número de formato, etc.
-    > Para más detalles, escríbame al: https://wa.link/lckvt3
 
 1. **Crear enlace de almacenamiento**
 
