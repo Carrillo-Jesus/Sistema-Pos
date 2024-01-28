@@ -114,7 +114,8 @@ Sistema pos, laravel 10, mysql.
 ## 📝 Contactos
 
 Correo: jesusdavid4521@gmail.com
-Numero: 3001134675
+
+Escribeme: +57 3001134675
 
 
 
