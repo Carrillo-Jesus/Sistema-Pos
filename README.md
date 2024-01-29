@@ -4,11 +4,6 @@ Sistema pos, laravel 10, mysql.
 
 ![Inicio del sistema](./public/capturas/01.png)
 ![Login](./public/capturas/02.png)
-![Dashboard](./public/capturas/03.png)
-![PUnto de venta](./public/capturas/04.png)
-![productos](./public/capturas/05.png)
-![asistencia](./public/capturas/06.png)
-![Usuarios](./public/capturas/07.png)
 
 ## Características⭐
 - punto de venta
