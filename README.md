@@ -106,11 +106,5 @@ Sistema pos, laravel 10, mysql.
 
     o usuario: `user` y password: `password`
 
-## 📝 Contactos
-
-Correo: jesusdavid4521@gmail.com
-
-Escribeme: +57 3001134675
-
 
 
